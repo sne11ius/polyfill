@@ -7,7 +7,8 @@ field—well, dream no more! 🌈✨
 Most password managers? They just fill forms like a high schooler copying math homework. But Polyfill? It’s the wizardry
 that goes beyond forms and injects your passwords anywhere—even straight into those tricky windows that others dare not
 tread. You're welcome. 🎩🧙‍♂️
-🤖 What Does It Do?
+
+## 🤖 What Does It Do?
 
 Polyfill works its magic with the Bitwarden CLI, typing your carefully curated passwords into any window you choose. No,
 not just browser input fields (what is this, the early 2000s?)—I'm talking about VNC clients in browsers, desktop apps,
@@ -68,7 +69,8 @@ trying
 to teach a fish to climb a tree. It’s cute that you tried, but this is the 21st century. Time to step up your game.
 
 1Password users? You’re not even part of the conversation, but thanks for coming.
-🚀 Future Roadmap
+
+## 🚀 Future Roadmap
 
 - Wayland Support: Maybe. If we feel like it. Don't hold your breath. 🤷‍♂️
 - MacOS Support: Does anyone actually want that? 😂
